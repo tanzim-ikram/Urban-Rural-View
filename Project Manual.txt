@@ -1,0 +1,7 @@
+Press 'D/ d'--> Day
+Press 'N/n' --> Night
+Press 'C/c' --> Open and Close Dam
+Press 'W/w' --> Increse Train and Car speed
+Press 'S/s' --> Decrease Train and Car speed
+Press 'MOUSE_LEFT_BUTTON' --> Increse Boat speed
+Press 'MOUSE_RIGHT_BUTTON' --> Decrease Boat speed
